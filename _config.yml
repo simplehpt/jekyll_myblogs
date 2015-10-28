@@ -1,0 +1,33 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: simplehpt
+  email: simplehpt@126.com
+  link: https://github.com/
+  weibo: https://github.com/
+  github: http://github.com/simplehpt
+
+# 站点信息
+title: simplehpt的博客 
+description: simplehpt的博客
+url: https://github.com/
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# google analytics 设置
+ga:
+  id: UA-54767140-1
+  url: yansu.org
+
+# disqus 设置
+disqus:
+  shortname: suyan-zh
